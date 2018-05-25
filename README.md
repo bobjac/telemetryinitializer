@@ -1,0 +1,1 @@
+#telemetryinitializer
