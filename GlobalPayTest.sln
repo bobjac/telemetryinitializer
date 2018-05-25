@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GlobalPayTest", "GlobalPayTest\", "{67E5EC8F-FA13-4BB5-A58B-5F257AB95392}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{0ed2c005-93df-4389-bb16-fb11a2f39107}|GlobalPay.TelemetryInitializer.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49874"
+		Debug.AspNetCompiler.PhysicalPath = "GlobalPayTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49874\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49874"
+		Release.AspNetCompiler.PhysicalPath = "GlobalPayTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49874\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49874"
+		SlnRelativePath = "GlobalPayTest\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalPay.TelemetryInitializer", "GlobalPay.TelemetryInitializer\GlobalPay.TelemetryInitializer.csproj", "{0ED2C005-93DF-4389-BB16-FB11A2F39107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E5EC8F-FA13-4BB5-A58B-5F257AB95392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E5EC8F-FA13-4BB5-A58B-5F257AB95392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E5EC8F-FA13-4BB5-A58B-5F257AB95392}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E5EC8F-FA13-4BB5-A58B-5F257AB95392}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0ED2C005-93DF-4389-BB16-FB11A2F39107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED2C005-93DF-4389-BB16-FB11A2F39107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED2C005-93DF-4389-BB16-FB11A2F39107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED2C005-93DF-4389-BB16-FB11A2F39107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AF215B-88D9-4412-B6C5-891DE7379916}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\bin\Debug\GlobalPay.TelemetryInitializer.dll
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\bin\Debug\GlobalPay.TelemetryInitializer.pdb
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\bin\Debug\Microsoft.ApplicationInsights.dll
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\obj\Debug\GlobalPay.TelemetryInitializer.csproj.CoreCompileInputs.cache
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\obj\Debug\GlobalPay.TelemetryInitializer.csproj.CopyComplete
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\obj\Debug\GlobalPay.TelemetryInitializer.dll
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\obj\Debug\GlobalPay.TelemetryInitializer.pdb
+E:\dev\appservice\appinsights\GlobalPayTest\GlobalPay.TelemetryInitializer\obj\Debug\GlobalPay.TelemetryInitializer.csprojResolveAssemblyReference.cache

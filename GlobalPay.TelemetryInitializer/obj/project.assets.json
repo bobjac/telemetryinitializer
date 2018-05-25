@@ -1,0 +1,236 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {
+      "Microsoft.ApplicationInsights/2.6.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.4.0"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win": {
+      "Microsoft.ApplicationInsights/2.6.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.4.0"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x64": {
+      "Microsoft.ApplicationInsights/2.6.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.4.0"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x86": {
+      "Microsoft.ApplicationInsights/2.6.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.4.0"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Microsoft.ApplicationInsights.dll": {}
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.4.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.ApplicationInsights/2.6.4": {
+      "sha512": "cOYn7GQOWVu3O11J3Ckcq2ZrL8p83dAOEW67w8G6+Szq1usGSRYNkPOBDWJMg5iskHN/VA65n6EWuhMP/yNqvw==",
+      "type": "package",
+      "path": "microsoft.applicationinsights/2.6.4",
+      "files": [
+        ".signature.p7s",
+        "lib/net45/Microsoft.ApplicationInsights.dll",
+        "lib/net46/Microsoft.ApplicationInsights.dll",
+        "lib/netstandard1.3/Microsoft.ApplicationInsights.dll",
+        "microsoft.applicationinsights.2.6.4.nupkg.sha512",
+        "microsoft.applicationinsights.nuspec"
+      ]
+    },
+    "System.Diagnostics.DiagnosticSource/4.4.1": {
+      "sha512": "U/KcC19fyLsPN1GLmeU2zQq15MMVcPwMOYPADVo1+WIoJpvMHxrzvl+BLLZwTEZSneGwaPFZ0aWr0nJ7B7LSdA==",
+      "type": "package",
+      "path": "system.diagnostics.diagnosticsource/4.4.1",
+      "files": [
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net45/System.Diagnostics.DiagnosticSource.xml",
+        "lib/net46/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net46/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml",
+        "ref/netcoreapp2.0/_._",
+        "system.diagnostics.diagnosticsource.4.4.1.nupkg.sha512",
+        "system.diagnostics.diagnosticsource.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": [
+      "Microsoft.ApplicationInsights >= 2.6.4",
+      "System.Diagnostics.DiagnosticSource >= 4.4.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bobjac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\dev\\appservice\\appinsights\\GlobalPayTest\\GlobalPay.TelemetryInitializer\\GlobalPay.TelemetryInitializer.csproj",
+      "projectName": "GlobalPay.TelemetryInitializer",
+      "projectPath": "E:\\dev\\appservice\\appinsights\\GlobalPayTest\\GlobalPay.TelemetryInitializer\\GlobalPay.TelemetryInitializer.csproj",
+      "packagesPath": "C:\\Users\\bobjac\\.nuget\\packages\\",
+      "outputPath": "E:\\dev\\appservice\\appinsights\\GlobalPayTest\\GlobalPay.TelemetryInitializer\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bobjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages\\": {},
+        "\\\\paraxeldev\\testrepo": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://cryptletfx-utilities.pkgs.visualstudio.com/_packaging/cryptletfx-beta/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net462": {
+        "dependencies": {
+          "Microsoft.ApplicationInsights": {
+            "target": "Package",
+            "version": "[2.6.4, )"
+          },
+          "System.Diagnostics.DiagnosticSource": {
+            "target": "Package",
+            "version": "[4.4.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
